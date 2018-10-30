@@ -1,7 +1,7 @@
 {
   "name": "mch/choicelist-type-bundle",
   "type": "symfony-bundle",
-  "description": "Add a new choice list form type",
+  "description": "Field extension for independant ChoiceType dataset configuration inside a CollectionType",
   "license": "MIT",
   "keywords": ["Symfony", "form", "field", "choicetype", "collection"],
   "authors": [
