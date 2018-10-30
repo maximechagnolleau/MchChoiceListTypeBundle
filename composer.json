@@ -2,6 +2,7 @@
   "name": "mch/choicelist-type-bundle",
   "type": "symfony-bundle",
   "description": "Add a new choice list form type",
+  "license": "MIT",
   "keywords": ["Symfony", "form", "field"],
   "authors": [
     {
