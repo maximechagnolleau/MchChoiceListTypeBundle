@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "description": "Add a new choice list form type",
   "license": "MIT",
-  "keywords": ["Symfony", "form", "field"],
+  "keywords": ["Symfony", "form", "field", "choicetype", "collection"],
   "authors": [
     {
       "name": "Maxime Chagnolleau",
