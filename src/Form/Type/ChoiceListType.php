@@ -6,6 +6,13 @@ use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\CollectionType;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
+/**
+ * Class ChoiceListType
+ * CollectionType extension:
+ * > only for a ChoiceType collection
+ * > use ChoiceListItemnType instead of ChoiceType
+ * @package Mch\ChoiceListTypeBundle\Form\Type
+ */
 class ChoiceListType extends AbstractType
 {
     /**

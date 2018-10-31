@@ -7,6 +7,12 @@ use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 use Symfony\Component\OptionsResolver\Options;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
+/**
+ * Class ChoiceListItemType
+ * ChoiceType Extension:
+ * > default "choices" option is set by using "choices_config" option
+ * @package Mch\ChoiceListTypeBundle\Form\Type
+ */
 class ChoiceListItemType extends AbstractType
 {
     /**
