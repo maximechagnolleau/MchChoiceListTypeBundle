@@ -31,6 +31,3 @@ $builder->add('choices_list', ChoiceListType::class, [
     ],
 ]);
 ```
-
-
-

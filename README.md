@@ -15,3 +15,8 @@ Installation
 ------------
 
 All the installation instructions are located in the [documentation](resources/doc/index.md).
+
+Contributions
+-------------
+
+Yes, please do not hesitate! And, of course, all comments are welcome!
