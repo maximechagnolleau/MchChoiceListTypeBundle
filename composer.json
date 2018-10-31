@@ -12,9 +12,9 @@
   ],
   "version": "0.1.0-dev",
   "require": {
-    "php": "^7.0",
-    "symfony/http-kernel": "^4.0",
-    "symfony/form": "^4.0"
+    "php": "^7.1",
+    "symfony/http-kernel": "^3.4|^4.0",
+    "symfony/form": "^3.4|^4.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.0"
