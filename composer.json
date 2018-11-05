@@ -10,7 +10,6 @@
       "email": "maxime.chagnolleau@free.fr"
     }
   ],
-  "version": "0.1.0-dev",
   "require": {
     "php": "^7.1",
     "symfony/http-kernel": "^3.4|^4.0",
