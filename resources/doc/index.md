@@ -111,7 +111,7 @@ $builder = $this->createFormBuilder($data);
 //...
 ```
 
-## 5. Advanced Example: Fav Books
+## 5. Complete Example: Fav Books
 
 Consider a class "Book", which represents a simple book with an Id and a title:
 
