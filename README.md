@@ -2,7 +2,8 @@ MchChoiceListTypeBundle
 =======================
 
 This bundle provides an extended CollectionType field called ChoiceListType.
-The purpose is to configure independantly the dataset of each ChoiceType field inside a CollectionType.
+The purpose is to configure independantly the dataset of each ChoiceType field inside a CollectionType and optionaly
+to configure each field itself.
 
 [![Build Status](https://travis-ci.com/maximechagnolleau/MchChoiceListTypeBundle.svg?branch=master)](https://travis-ci.com/maximechagnolleau/MchChoiceListTypeBundle)
 
